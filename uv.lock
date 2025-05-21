@@ -1,0 +1,27 @@
+[[package]]
+name = "transformers"
+version = "4.39.3"
+description = "State-of-the-art Natural Language Processing for Pytorch and TensorFlow"
+category = "main"
+
+[[package]]
+name = "ipywidgets"
+version = "8.1.2"
+description = "Jupyter interactive widgets"
+category = "main"
+
+[[package]]
+name = "torch"
+version = "2.2.2"
+description = "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+category = "main"
+
+[[package]]
+name = "ipython"
+version = "8.24.0"
+description = "IPython: Productive Interactive Computing"
+category = "main"
+
+[metadata]
+python-versions = ">=3.8,<3.14"
+content-hash = "<some-generated-hash>"
