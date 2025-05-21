@@ -1,0 +1,12 @@
+Python Version: 3.13
+This project uses Python 3.13, which is one of the latest stable versions of Python. Python 3.13 offers several advantages and improvements that make it a great choice for modern development, including:
+
+Latest language features: Python 3.13 includes the newest syntax improvements, standard library enhancements, and performance optimizations.
+
+Better typing support: Improved static typing features help catch bugs early and improve code quality.
+
+Faster execution: Each new Python release usually brings optimizations that make your code run faster and more efficiently.
+
+Compatibility with modern libraries: Libraries like transformers and ipywidgets are fully compatible with Python 3.13, ensuring you can use the latest versions with all features.
+
+Active security updates and support: Using a recent Python version means you benefit from ongoing bug fixes and security patches.
